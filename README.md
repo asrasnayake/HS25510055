@@ -36,4 +36,17 @@ The website is a single-page application (SPA) that allows smooth navigation thr
 
 ## Project Structure
 
+portfolio/
+│
+├── assets/
+│ ├── css/ # Custom styles (main.css)
+│ ├── img/ # Images, profile, hero background
+│ ├── vendor/ # Third-party libraries (Bootstrap, AOS, Swiper, Glightbox)
+│ └── files/ # CV or other downloadable files
+│
+├── index.html # Main portfolio page
+├── README.md # Project documentation
+└── forms/
+└── contact.php # Backend script for contact form
+
 
