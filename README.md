@@ -5,7 +5,7 @@ Personal portfolio
 
 This is a personal portfolio website for Ahinsa Rasnayake, a Research & Development Scientist in biotechnology. The portfolio showcases professional experience, academic background, technical skills, projects, languages, extra-curricular activities, and contact information.
 
-Table of Contents
+### Table of Contents
 
 Overview
 Features
@@ -15,7 +15,7 @@ Usage
 Contact
 
 
-Overview
+### Overview
 
 The portfolio is a single-page application that highlights:
 About Me: Professional summary and personal profile.
@@ -28,7 +28,7 @@ Contact: Contact form with address, email, and mobile number.
 
 The website is interactive and allows visitors to navigate sections seamlessly.
 
-Features
+### Features
 
 Fully responsive and mobile-friendly layout.
 Smooth navigation between sections with active menu highlighting.
@@ -39,7 +39,7 @@ Swiper-based carousel for professional references.
 Contact form integrated with PHP email validation.
 AOS (Animate On Scroll) for engaging scroll animations.
 
-Technologies Used
+### Technologies Used
 
 HTML5
 CSS3 (with custom styling in main.css)
