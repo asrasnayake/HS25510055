@@ -1,7 +1,7 @@
 # HS25510055
 Personal portfolio
 
-Ahinsa Rasnayake Portfolio
+## Ahinsa Rasnayake Portfolio
 
 This is a personal portfolio website for Ahinsa Rasnayake, a Research & Development Scientist in biotechnology. The portfolio showcases professional experience, academic background, technical skills, projects, languages, extra-curricular activities, and contact information.
 
